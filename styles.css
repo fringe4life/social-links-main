@@ -65,6 +65,7 @@
 		background-color: var(--grey-800);
 		padding: 1.5rem;
 		color: white;
+		border-radius: 0.75rem;
 	}
 
 	.card-social-img {
